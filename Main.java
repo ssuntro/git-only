@@ -14,5 +14,15 @@ class Main {
         System.out.println("Hello chunk3");
         
         System.out.println("Hello world 3");
+        
+        
+        for(int i=0;i<10;i++){
+            System.out.println(i);
+            String myName = "nong" +i;
+            Person a = new Person();
+            System.out.println(myName.toString());
+        }
+        //
+        //
     }
 }
