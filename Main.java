@@ -8,6 +8,9 @@ class Main {
         System.out.println("Hello world 2");
         System.out.println("My name is Auu");
         System.out.println("My name is Nong");
+        
+        System.out.println("Hello chunk1");
+        
         System.out.println("Hello world 3");
     }
 }
