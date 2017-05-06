@@ -22,7 +22,6 @@ class Main {
             Person a = new Person();
             System.out.println(myName.toString());
         }
-        //
-        //
+
     }
 }
